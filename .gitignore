@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.bak
+*.bak_port
+*.bak2
+runs/
+sndy_runs_*.tgz
+notebooks/analysis.ipynb
+figures/
+.ipynb_checkpoints/
+.DS_Store
